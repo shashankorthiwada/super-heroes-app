@@ -1,4 +1,4 @@
-Hi This is a Simple CLI App for Marvel/DC Fans to test the Knowledge of their Super Heroes.
+Hi This is a Simple CLI App for Marvel/DC Fans to test the Knowledge of your favourite Super Heroes.
 
 Technologies Used:
 
